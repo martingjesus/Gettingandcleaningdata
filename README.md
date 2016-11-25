@@ -1,4 +1,4 @@
-# Gettingandcleaningdata
+# Tidied and filtered data from the Human Activity Recognition Using Smartphones Dataset.
 
 The script `run_analysis.R` in this repository will create a text file `TidyDatasetMeans.txt` from a dataset downloaded 
 from `https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip`
