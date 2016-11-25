@@ -1,13 +1,13 @@
 # Gettingandcleaningdata
 
-The script 'run_analysis.R' in this repository will create a text file 'TidyDatasetMeans.txt' from a dataset downloaded 
-from 'https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip'
+The script `run_analysis.R` in this repository will create a text file `TidyDatasetMeans.txt` from a dataset downloaded 
+from `https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip`
 
 The dataset represents data collected from the accelerometers from the Samsung Galaxy S smartphone. 
 A full description is available at the site where the data was obtained:
-'http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones'
+`http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones`
 
-The script performs several steps to tidy up the data and create the new dataset "TidyDatasetMeans.txt":
+The script performs several steps to tidy up the data and create the new dataset `TidyDatasetMeans.txt`:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
