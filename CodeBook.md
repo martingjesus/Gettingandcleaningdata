@@ -1,6 +1,6 @@
-**# Code Book**
+# **Code Book**
 
-**## Subject and Activity**
+## **Subject and Activity**
 
 These variables identify the unique subject/activity pair the variables relate to:
 
@@ -13,7 +13,7 @@ These variables identify the unique subject/activity pair the variables relate t
   - Standing
   - Laying
 
-**## Measurement Means**
+## **Measurement Means**
 
 All variables are the mean of a measurement for each subject and activity. This is indicated by the initial Mean in the variable name. All values are floating point numbers.
 
